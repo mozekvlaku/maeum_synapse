@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Maeum Synapse</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="Neutral">Jsem v pohodě</string>
+    <string name="Happy">Mám radost</string>
+    <string name="Sad">Jsem smutný</string>
+    <string name="Angry">Jsem naštvaný</string>
+    <string name="Curious">To mě zajímá</string>
+    <string name="Disgusted">Fuj, jsem znechucen</string>
+    <string name="Fearful">Bojím se</string>
+    <string name="Suspicious">Podezřívám tě</string>
+
+    <string name="Surprised">Wow, jsem překvapen</string>
+    <string name="Sleepy">Jsem ospalý</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
